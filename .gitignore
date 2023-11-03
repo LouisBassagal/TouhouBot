@@ -1,0 +1,8 @@
+# cmake relate build
+build/
+
+#useless file
+*.o
+
+# Executables
+ai
